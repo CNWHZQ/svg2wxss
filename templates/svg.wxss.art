@@ -1,0 +1,10 @@
+.bgsvg{
+
+}
+
+{{each files}}
+/* {{$value.mark}} */
+.bgsvg-{{$value.name}} {
+    background-image: url("{{$value.backgroundImage}}");
+}
+{{/each}}
