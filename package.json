@@ -17,5 +17,19 @@
   "devDependencies": {
     "@types/node": "^12.11.5",
     "typescript": "^3.6.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CNWHZQ/svg2wxss.git"
+  },
+  "keywords": [
+    "svg2wxss",
+    "svg",
+    "wxss"
+  ],
+  "author": "290353142@qq.com",
+  "bugs": {
+    "url": "https://github.com/CNWHZQ/svg2wxss/issues"
+  },
+  "homepage": "https://github.com/CNWHZQ/svg2wxss#readme"
 }
