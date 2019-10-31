@@ -31,5 +31,14 @@
   "bugs": {
     "url": "https://github.com/CNWHZQ/svg2wxss/issues"
   },
-  "homepage": "https://github.com/CNWHZQ/svg2wxss#readme"
+  "homepage": "https://github.com/CNWHZQ/svg2wxss#readme",
+  "files":[
+    "index.js",
+    "index.d.ts",
+    "templates",
+    "lib/svg2wxss.js",
+    "lib/svg2css.js",
+    "lib/svg2wxss.d.ts",
+    "lib/svg2css.d.ts"
+  ]
 }
