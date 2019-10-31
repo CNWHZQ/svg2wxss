@@ -1,6 +1,6 @@
 {
   "name": "svg2wxss",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "types":"index.d.ts",
