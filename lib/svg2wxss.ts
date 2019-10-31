@@ -36,11 +36,11 @@ export default function(opt:option){
 
             
             var render = template.compile({
-                filename:path.resolve("templates/svg.wxss.art"),
+                filename:path.relative(__dirname,"../templates/svg.wxss.art"),
                 escape: false
             } as any);
             var HTMLrender = template.compile({
-                filename:path.resolve("templates/index.html.art"),
+                filename:path.relative(__dirname,"../templates/index.html.art"),
                 escape: false
             } as any);
 
