@@ -1,5 +1,9 @@
 .bgsvg{
-
+    min-width: 10px;
+    min-height: 10px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: inline-block;
 }
 
 {{each files}}
